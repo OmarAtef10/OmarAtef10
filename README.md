@@ -3,7 +3,7 @@
 
 - 🌱 Currently I'm a full-stack developer intern at Finvo
 - 🥅 2022 Goals: Learn more about machine learning, React and Django .
-- 📫 Send a mail on omar.atef.2001@gmail.com
+- 📫 Send an Email on omar.atef.2001@gmail.com
 - 📃 also go see <a href="https://omar-portfoliodj.herokuapp.com/" target = "_blank">my portfolio website</a>
 - 👯 I love connecting with different people so if you want to say hi, go for it then lol
 
