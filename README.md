@@ -25,6 +25,9 @@
 <details>
   <summary> Most used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAtef10&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAtef10&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </details>
+
+![Visitor Count](https://profile-counter.glitch.me/OmarAtef10/count.svg)
+Dont mind the counter lol😉
