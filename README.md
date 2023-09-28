@@ -1,8 +1,8 @@
 # Hello there, I'm Omar  👋
 ## A Computer Science Student, Software / Web developer and a Gamer 🧑🏼‍💻🎮
 
-- 🌱 Currently I'm a part-time full-stack developer at Finvo
-- 🥅 2022 Goals: Learn more about machine learning, React and Django .
+- 🌱 Currently I'm a freelancer
+- 🥅 2024 Goals: Learn more about machine learning, React, Dango and Java Spring.
 - 📫 Send an Email on omar.atef.2001@gmail.com
 - 🙋🏼 I love connecting with different people so if you want to say hi, then go for it then lol
 
@@ -30,4 +30,5 @@
 </details>
 -->
 ![Visitor Count](https://profile-counter.glitch.me/OmarAtef10/count.svg)
+
 Dont mind the counter lol😉
