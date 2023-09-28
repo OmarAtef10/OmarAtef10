@@ -1,5 +1,5 @@
 # Hello there, I'm Omar  👋
-## A Computer Science Student, Software / Web developer and a Gamer 🧑🏼‍💻🎮
+## A Computer Science Fresh Graduate, Software / Web developer and a Gamer 🧑🏼‍💻🎮
 
 - 🌱 Currently I'm a freelancer
 - 🥅 2024 Goals: Learn more about machine learning, React, Dango and Java Spring.
