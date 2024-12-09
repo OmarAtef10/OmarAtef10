@@ -1,8 +1,5 @@
 # Hello there, I'm Omar  👋
-## A Computer Science Fresh Graduate, Software / Web developer and a Gamer 🧑🏼‍💻🎮
 
-- 🌱 Currently I'm a freelancer
-- 🥅 2024 Goals: Learn more about machine learning, React, Dango and Java Spring.
 - 📫 Send an Email on omar.atef.2001@gmail.com
 - 🙋🏼 I love connecting with different people so if you want to say hi, then go for it then lol
 
